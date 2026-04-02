@@ -3,7 +3,7 @@
 
 **Last Updated:** April 2, 2026  
 **Purpose:** Complete interview preparation with concepts, real examples, and answers  
-**Target:** Linkwell Telesystems C# Developer Interview
+**Target:**  C# Developer Interview
 
 ---
 
